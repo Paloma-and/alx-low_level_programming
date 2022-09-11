@@ -1,10 +1,11 @@
 #include <stdio.h>
 
-int main(void)
-{
+/*This code prints a text using puts function*/
 
-  puts ("\"Programming is like building a multilingual puzzle");
-  getchar();
+int main (void){
+
+ puts ("\"Programming is like building a multilingual puzzle");
+ getchar();
 
 return (0);
 }
