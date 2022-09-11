@@ -1,5 +1,9 @@
 #include <stdio.h>
-/*This code prints a text using puts function*/
+/**
+ *  * main - Entry point
+ *   *
+ *    * Return: Always 0 (Success)
+ *     */
 int main(void)
 {
 /*This code prints a text using puts function*/
