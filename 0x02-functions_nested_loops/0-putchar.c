@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	char p ='_';
+	char p = '_';
 	char p1 = 'p';
 	char u = 'u';
 	char t = 't';
