@@ -1,7 +1,8 @@
 /**
  * add - function
  *
- *@a,@b: two integer
+ *@a: interger to be added
+ *@b: integer to be added
  *
  *Return: return res, sum of the two number
  */
