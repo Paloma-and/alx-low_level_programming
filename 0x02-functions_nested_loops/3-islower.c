@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * This function checks for a lowercase character
+ * Description: This function checks for a lowercase character
  *
- * _islower : checks for a lowercase character
+ * _islower - checks for a lowercase character
  *
  * @c: is a letter
  *
