@@ -12,8 +12,8 @@ int main(void)
 	printf("Infinite loop incoming :(\n");
 
 	i = 0;
-        /*he is the part of the code causing the output to go into an infinite loop*/   
-	while (i < 10)
+           
+	while (i < 10) /*he is the part of the code causing the output to go into an infinite loop*/
 	{
 	putchar(i);
 	}
