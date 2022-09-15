@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * abs - function
- *
+ * _abs - function
+ * @n: number we look for the absolute value
  * Return: Always 0.
  */
 
