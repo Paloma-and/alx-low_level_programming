@@ -1,6 +1,7 @@
-#ifndef ACTIONS_H
-#define ACTIONS_H
+#ifndef MAIN_H_
+#define MAIN_H_
  
 int _isupper(int c);
- 
+int _isdigit(int c);
+
 #endif
